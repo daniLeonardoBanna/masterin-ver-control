@@ -1,1 +1,1 @@
-console.log("learning git version 3");
+console.log("learning git");

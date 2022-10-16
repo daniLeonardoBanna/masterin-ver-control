@@ -1,1 +1,1 @@
-alert("fuck off, nicely thats version 3");
+alert("fuck off");
