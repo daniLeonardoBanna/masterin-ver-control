@@ -1,1 +1,1 @@
-alert("fuck off");
+alert("have a good day");
